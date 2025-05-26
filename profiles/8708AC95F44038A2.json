@@ -1,0 +1,15 @@
+{
+  "icon": "https://raw.githubusercontent.com/NodesGuru/explorer-validator-profiles/main/images/8708AC95F44038A2.png",
+  "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story.",
+  "socials": {
+    "email": "hi@originstake.com",
+    "website": "https://originstake.com",
+    "github": "https://github.com/OriginStake",
+    "twitter": "https://x.com/OriginStake",
+    "telegram": "",
+    "discord": ""
+  },
+  "addresses": [
+    "story1ng7eglehz2uk0fdmsxceyzxahthn2vawz2zeyz"
+  ]
+}
