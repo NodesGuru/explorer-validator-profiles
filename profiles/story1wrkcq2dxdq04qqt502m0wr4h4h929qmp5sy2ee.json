@@ -1,0 +1,15 @@
+{
+    "icon": "https://raw.githubusercontent.com/NodesGuru/explorer-validator-profiles/main/images/story1wrkcq2dxdq04qqt502m0wr4h4h929qmp5sy2ee.png",
+    "description": "Kraken Exchange Validator - Empowering Global Crypto Adoption Through Secure, Accessible, and User-Focused Blockchain Services.",
+    "socials": {
+        "email": "staked-devops@kraken.com",
+        "website": "https://www.kraken.com/features/staking",
+        "github": "",
+        "twitter": "https://x.com/krakenfx",
+        "telegram": "",
+        "discord": ""
+    },
+    "addresses": [
+        "storyvaloper1wrkcq2dxdq04qqt502m0wr4h4h929qmp6lstjj"
+    ]
+}
